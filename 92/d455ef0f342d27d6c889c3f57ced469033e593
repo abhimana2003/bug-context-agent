@@ -1,0 +1,17 @@
+CLAUDE.md
+  h_c376defcb08876 13-16,266
+  h_c376defcb08876 1-12,17-265,267-275
+.gitignore
+  h_c376defcb08876 1-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.24",
+  "base_commit_sha": "92d455ef0f342d27d6c889c3f57ced469033e593",
+  "prompts": {},
+  "humans": {
+    "h_c376defcb08876": {
+      "author": "abhimana2003 <91295761+abhimana2003@users.noreply.github.com>"
+    }
+  }
+}
